@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 47,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 47,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 57,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 57,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 55,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 55,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 52,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 52,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 43,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 43,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 52,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 52,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 857
+                    }
+                }
+            }
+        ]
+    }
+]

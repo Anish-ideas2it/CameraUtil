@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cp_RlParent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/cp_LlActions"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/cp_LlAfterEffects"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <Button
+                android:id="@+id/cp_BtnSave"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/tick_mark" />
+
+            <Button
+                android:id="@+id/cp_BtnCancel"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:background="@drawable/discard_icon" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/cp_RlActionButtons"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="5dp" >
+
+            <Button
+                android:id="@+id/cp_BtnCapture"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/lens" />
+
+            <!--
+                 <ImageButton
+                android:id="@+id/cp_IbCameraSwitch"
+                android:layout_width="48dp"
+                android:layout_height="32dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="#0000"
+                android:scaleType="fitXY"
+                android:src="@drawable/camera_switch" />
+            -->
+        </RelativeLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/cp_FlFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@id/cp_LlActions" >
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/cp_RlPreview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@id/cp_LlActions" >
+
+        <ImageView
+            android:id="@+id/cp_IvPreview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/cp_IvMovieIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/post_movie_button" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/cp_LlTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/cp_LlActions"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/cp_IvRecording"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/red_dot" />
+
+        <TextView
+            android:id="@+id/cp_TvTimer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:shadowColor="@color/shadow_color"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="2"
+            android:text="01:30"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

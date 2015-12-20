@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/anishkaliraj/Documents/I2i/Android/Camera/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb16cec712ccda1806a5157f248dc5eceab78ce0">
+        <dex dex="/Users/anishkaliraj/Documents/I2i/Android/Camera/app/build/intermediates/pre-dexed/debug/classes_406be2859678399869944ac85bf25e053b498b16.jar" />
+    </item>
+    <item
+        jar="/Users/anishkaliraj/Documents/I2i/Android/Camera/app/build/intermediates/exploded-aar/Camera/proCam/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48e1571ac0c2c73d7e2db43db87a0147b50bc582">
+        <dex dex="/Users/anishkaliraj/Documents/I2i/Android/Camera/app/build/intermediates/pre-dexed/debug/Camera-proCam-unspecified_2fd70eb145e58aa72cc9b95a2c203b6310a8d578.jar" />
+    </item>
+
+</items>

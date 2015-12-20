@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/stop_icon.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/stop_icon.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/red_dot.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/red_dot.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/lens.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/lens.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/discard_icon.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/discard_icon.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/post_movie_button.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/post_movie_button.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/video_icon.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/video_icon.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/tick_mark.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/tick_mark.png"
+    },
+    {
+        "merged": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/anishkaliraj/Documents/I2i/Android/Camera/proCam/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]
